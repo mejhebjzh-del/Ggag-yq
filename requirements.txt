@@ -1,4 +1,0 @@
-aiohttp>=3.9,<4
-PyYAML>=6.0,<7
-Pillow>=10.0,<12
-git+https://github.com/mpolden/pysnap.git
